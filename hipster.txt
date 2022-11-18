@@ -1,6 +1,8 @@
 mynew hipster text my wish my wish
 Jhdsjkhfkdjshfkjdshkjfhdskjhfkdjshfkjds
 Jhdskjfhkdjshfkjdshfkjdshkfjhsdkj
-Cautabtd
-Changed 2nd time
+CautabtdChanged 2nd time
 change in master this time for rebase:
+Changed 2nd tim
+one more chane:wq
+hello again
